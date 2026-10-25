@@ -1,4 +1,1 @@
-test
-
-
-ok
+print("hello")
